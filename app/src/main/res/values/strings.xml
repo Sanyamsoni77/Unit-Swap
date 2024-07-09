@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Swap</string>
+    <string name="swap">Swap</string>
+    <string name="_0">0</string>
+    <string name="unintswaplogo">unintSwapLogo</string>
+    <string name="enter_the_kg_value_below">ENTER THE KG VALUE BELOW</string>
+</resources>
